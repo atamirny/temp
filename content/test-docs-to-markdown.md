@@ -113,10 +113,11 @@ To facilitate downstream search queries and compliance verification, raw extract
 
 <br />
 <br />
-| Target Field Name | Data Type | Validation Rule / Structural Description |
-| ----------- | ----------- | ----------- |
-| Header | Title | Header Text |
-| Paragraph | Text | Body Text |
+
+| Target Field Name | Data Type | Validation Rule / Structural Description | 
+| ----------- | ----------- | ----------- | 
+| Header | Title | Header Text | 
+| Paragraph | Text | Body Text | 
 
 <br />
 <br />
