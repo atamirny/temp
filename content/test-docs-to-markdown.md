@@ -111,13 +111,20 @@ To facilitate downstream search queries and compliance verification, raw extract
   </tr>
 </table>
 
-<pr />
-<pr />
-|Target Field Name | Data Type | Validation Rule / Structural Description |
+<br />
+<br />
+| Target Field Name | Data Type | Validation Rule / Structural Description |
 | ----------- | ----------- | ----------- |
 | Header | Title | Header Text |
 | Paragraph | Text | Body Text |
 
+<br />
+<br />
+
+| Syntax | Description | Example |
+| ----------- | ----------- | ----------- |
+| Header | Title | Header Text |
+| Paragraph | Text | Body Text |
 
 ## 
 
