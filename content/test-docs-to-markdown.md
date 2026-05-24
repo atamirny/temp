@@ -25,9 +25,7 @@ Conversion notes:
 # Product Requirements Document (PRD)
 
 **Project Name:** Florida Statutes Indexing & Structural Parsing Automation Pipeline
-
 **Associated Notebook:** FLStatuteParsingAndIndex.ipynb
-
 **Target Constraints:** Florida Statutes Chapters 718.111 & 120.54
 
 
